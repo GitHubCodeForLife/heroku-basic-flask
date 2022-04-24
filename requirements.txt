@@ -1,0 +1,15 @@
+Flask
+gunicorn
+python-dotenv
+numpy 
+cloudinary
+pandas
+seaborn 
+sklearn
+flask_restful
+flask-cors
+pyttsx3 
+SpeechRecognition
+gtts
+pymongo[srv]
+Flask-PyMongo
